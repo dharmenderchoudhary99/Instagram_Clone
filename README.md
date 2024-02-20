@@ -1,3 +1,5 @@
+![Image-1](https://github.com/dharmenderchoudhary99/Instagram_Clone/assets/120792811/ae32538d-8e3a-4190-9d35-d0f60529b5e5)
+
 Instagram Clone
 
     Welcome to the Instagram Clone project! This project is a simple replica of the Instagram app using the KivyMD framework. It includes basic functionalities and user interface components similar to the Instagram mobile application.
